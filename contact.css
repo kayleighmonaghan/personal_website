@@ -36,8 +36,11 @@ input[type=submit]:hover {
 }
 
 /* Add a background color and some padding around the form */
-.container {
+.form-container {
+    width: 50%;
+    display: inline block;
+    padding: 20px;
+    margin: 0 auto;
     border-radius: 5px;
     background-color: #f2f2f2;
-    padding: 20px;
 }

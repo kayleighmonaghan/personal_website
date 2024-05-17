@@ -1,0 +1,8 @@
+html {
+    height: 100%; /* make gradient fill whole page instead of tiling */ 
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(94, 84, 142);
+        background: linear-gradient(0deg, rgba(94, 84, 142, 1) 0%, rgba(159, 134, 192, 1) 59%, rgba(190, 149, 196, 1) 100%);
+}

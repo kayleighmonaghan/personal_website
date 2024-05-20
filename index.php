@@ -17,9 +17,9 @@
     </p>
     <nav>
         <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="contact-me/contact.html">Contact me!</a></li>
+            <li><a href="contact-me/contact.php">Contact me!</a></li>
         </ul>
     </nav>
 </body>

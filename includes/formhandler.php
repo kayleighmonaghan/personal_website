@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // if a field has been left empty, do not submit, return to empty form
     if (empty($name) || empty($email) || empty($subject) || empty($message) ) {
-        exit("Submission failed. Please fill in the required (*) fields.");
+        exit("Submission failed. Please go back and fill in the required (*) fields.");
     }
 
     // when form is submitted, return the user to the form page
